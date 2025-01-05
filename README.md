@@ -28,30 +28,6 @@ To analyze energy consumption patterns across zip codes and understand the role 
 - `.gitignore`: Specifies files to ignore in the repository.
 
 ---
-
-## **Projects and Insights**
-
-### **1. Energy Consumption Analysis**
-- **Objective**: To understand the relationship between energy consumption per capita, median income, and racial demographics across zip codes.
-- **Key Insights**:
-  - Income is a stronger driver of energy consumption than racial composition.
-  - Larger buildings in high-income areas tend to consume more energy.
-  - Energy efficiency opportunities exist in low-income areas.
-
-### **2. Census Data Analysis**
-- **Objective**: To explore population characteristics, diversity, and socioeconomic factors by zip code.
-- **Highlights**:
-  - Majority White populations are not directly correlated with energy consumption.
-  - Variations in population density and income distribution shape energy use patterns.
-
-### **3. Building Data Analysis**
-- **Objective**: To analyze property square footage and its impact on energy consumption.
-- **Findings**:
-  - Most properties fall between 2000-2500 sqft.
-  - Larger properties (>3500 sqft) show higher energy demands.
-
----
-
 ## **How to Use This Repository**
 
 1. **Clone the Repository**:
