@@ -1,6 +1,6 @@
 # Vancouver-WA-data-and-research-project
 
-This repository contains various projects and analyses focused on **energy consumption** and **census demographics**, among others. These projects are part of my work under **June Lukyu** at the **University of Washington (UW)**. Below is an overview of the contents, methodology, and insights derived from the data.
+This repository contains various projects and analyses focused on **energy consumption** and **census demographics**, among others. These projects are part of my work under **June Lukuyu** at the **University of Washington (UW)**. Below is an overview of the contents, methodology, and insights derived from the data.
 
 ---
 
