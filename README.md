@@ -1,12 +1,6 @@
 # Vancouver-WA-data-and-research-project
 
-Here’s the updated **README.md** with the additional context about the project being done under **June Lukuyu at UW**:
-
----
-
-# **Data Analysis Projects by Sanghamitra Johri**
-
-Welcome to my data analysis repository! This repository contains various projects and analyses focused on **energy consumption**, **census demographics**, and **building characteristics**, among others. These projects are part of my work under **June Lukyu** at the **University of Washington (UW)**. Below is an overview of the contents, methodology, and insights derived from the data.
+This repository contains various projects and analyses focused on **energy consumption**, **census demographics**, and **building characteristics**, among others. These projects are part of my work under **June Lukyu** at the **University of Washington (UW)**. Below is an overview of the contents, methodology, and insights derived from the data.
 
 ---
 
