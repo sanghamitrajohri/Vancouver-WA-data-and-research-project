@@ -34,32 +34,17 @@ To analyze energy consumption patterns across zip codes and understand the role 
    ```bash
    git clone https://github.com/sanghamitrajohri/your-repo-name.git
    ```
-
-2. **Install Dependencies**:
-   Ensure Python and required libraries (e.g., `pandas`, `matplotlib`) are installed:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run Scripts**:
+2. **Run Scripts**:
    - Execute analysis scripts for specific datasets:
      ```bash
      python census_data.py
      python meta_data_analysis.py
      ```
 
-4. **Visualize Results**:
+3. **Visualize Results**:
    - Review generated graphs and insights in the output folder.
-
 ---
 
 ## **Acknowledgment**
 
 This repository is part of a project supervised by **June Lukyu** at the **University of Washington (UW)**, where we explore the interplay between socioeconomic factors, building characteristics, and energy consumption patterns.
-
----
-
-## **License**
-This repository is open-source and available under the MIT License. Feel free to use or contribute!
-
----
