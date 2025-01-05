@@ -47,4 +47,4 @@ To analyze energy consumption patterns across zip codes and understand the role 
 
 ## **Acknowledgment**
 
-This repository is part of a project supervised by **June Lukyu** at the **University of Washington (UW)**, where we explore the interplay between socioeconomic factors, building characteristics, and energy consumption patterns.
+This repository is part of a project supervised by **June Lukuyu** at the **University of Washington (UW)**, where we explore the interplay between socioeconomic factors, building characteristics, and energy consumption patterns.
